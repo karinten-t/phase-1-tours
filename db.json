@@ -1,0 +1,44 @@
+{
+  "tours": [
+    {
+      "id": 1,
+      "name": "Maasai Mara Safari",
+      "description": "3-day wildlife safari in Kenya's most famous national reserve.",
+      "price": 850,
+      "duration": "3 days",
+      "image": "images/mara.avif"
+    },
+    {
+      "id": 2,
+      "name": "Mount Kilimanjaro Trek",
+      "description": "7-day trek to the summit of Africa's highest mountain.",
+      "price": 1500,
+      "duration": "7 days",
+      "image": "images/kilimanjaro.avif"
+    },
+    {
+      "id": 3,
+      "name": "Zanzibar Beach Vacation",
+      "description": "5-day luxury beach holiday on the spice island.",
+      "price": 1200,
+      "duration": "5 days",
+      "image": "images/zanzibar.avif"
+    },
+    {
+      "id": 4,
+      "name": "Nairobi City Tour",
+      "description": "1-day exploration of Kenya's capital city.",
+      "price": 150,
+      "duration": "1 day",
+      "image": "images/nairobi.webp"
+    },
+    {
+      "id": 5,
+      "name": "Lake Nakuru Weekend",
+      "description": "2-day trip to see flamingos and rhinos.",
+      "price": 350,
+      "duration": "2 days",
+      "image": "/images/nakuru.avif"
+    }
+  ]
+}
