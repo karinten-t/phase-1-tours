@@ -75,7 +75,7 @@ Event Listeners Implemented
 
  How to Customize
 
-1. Change Tours Data**:
+1. Change Tours Data:
    - Edit the `db.json` file to update tour information
    - Add/remove tour objects as needed
 
@@ -83,7 +83,7 @@ Event Listeners Implemented
    - Modify the `guideData` object in `script.js`
    - Replace `images/guide.jpg` with your guide's photo
 
-3. Change Styling**:
+3. Change Styling:
    - Edit colors in the `:root` variables in `style.css`
    - Adjust layout in the respective CSS sections
 
