@@ -59,8 +59,8 @@ Event Listeners Implemented
    - Prevents default form behavior
    - Logs form data to console (simulates server submission)
 
-3. Image Hover Events**:
-   - Adds scale effect on guide image hover
+3. Image Hover Events:
+   - Adds  effect on guide image hover
    - Removes effect when mouse leaves
 
 4. Filter Button Click Events:
