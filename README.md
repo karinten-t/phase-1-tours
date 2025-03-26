@@ -50,7 +50,7 @@ The project uses these endpoints from json-server:
 
 Event Listeners Implemented
 
-1. Navigation Click Events**:
+1. Navigation Click Events:
    - Switches between sections without page reload
    - Updates active navigation link
 
