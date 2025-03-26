@@ -6,8 +6,8 @@ Namelok Tours and Travel - Single Page Website
 A responsive single-page website for Namelok Tours and Travel company featuring tour listings, guide profile, and contact form.
  Features:
 
-- Single Page Application**: No page reloads/redirects
-- Dynamic Content**: Loads tours from JSON server
+- Single Page Application: No page reloads/redirects
+- Dynamic Content: Loads tours from JSON server
 - Interactive Elements:
   - Navigation between sections
   - Tour filtering functionality
@@ -79,7 +79,7 @@ Event Listeners Implemented
    - Edit the `db.json` file to update tour information
    - Add/remove tour objects as needed
 
-2. Update Guide Information**:
+2. Update Guide Information:
    - Modify the `guideData` object in `script.js`
    - Replace `images/guide.jpg` with your guide's photo
 
