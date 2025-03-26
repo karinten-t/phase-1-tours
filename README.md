@@ -63,7 +63,7 @@ Event Listeners Implemented
    - Adds scale effect on guide image hover
    - Removes effect when mouse leaves
 
-4. Filter Button Click Events**:
+4. Filter Button Click Events:
    - Filters tours by price range
    - Resets to show all tours
 
