@@ -19,6 +19,7 @@
                 <li><a href="#tours" class="nav-link">Our Tours</a></li>
                 <li><a href="#guide" class="nav-link">Tour Guide</a></li>
                 <li><a href="#contact" class="nav-link">Contact</a></li>
+                <li><a href="#footer-area" class="nav-link">footer</a></li>
             </ul>
         </nav>
     </header>
@@ -40,7 +41,35 @@
             <div class="filter-controls">
                 <button id="filter-affordable" class="filter-btn">Show Affordable (&lt;$1000)</button>
                 <button id="filter-all" class="filter-btn">Show All</button>
-            </div>
+                </div>
+                <h2>Add New Tour</h2>
+                <form id="add-tour-form">
+                    <div class="form-group">
+                        <label for="tourName">Tour Name:</label>
+                        <input type="text" id="tourName" name="tourName" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="tourDescription">Description:</label>
+                        <textarea id="tourDescription" name="tourDescription" required></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="tourPrice">Price ($):</label>
+                        <input type="number" id="tourPrice" name="tourPrice" step="0.01" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="tourDuration">Duration:</label>
+                        <input type="text" id="tourDuration" name="tourDuration" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="tourImage">Image URL (optional):</label>
+                        <input type="text" id="tourImage" name="tourImage">
+                    </div>
+                    <button type="submit" class="cta-btn">Add Tour</button>
+                </form>
+            </section>
+            
+
+
         </section>
 
         <section id="guide" class="section">
@@ -83,6 +112,9 @@
                 <button type="submit" class="cta-btn">Send Message</button>
             </form>
         </section>
+
+
+        
     </main>
 
     <footer>
