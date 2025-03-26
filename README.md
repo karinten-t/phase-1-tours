@@ -25,7 +25,7 @@ A responsive single-page website for Namelok Tours and Travel company featuring 
 Project Structure
 
 
-namelok-tours/
+namelok-tours
 index.html           
  style.css           
  script.js           
@@ -93,7 +93,7 @@ Future Enhancements
 - Implement booking system
 - Include customer reviews section
 - Add photo gallery with lightbox
-- Implement search functionality for tours
+
 
  Contact
 
