@@ -87,13 +87,6 @@ Event Listeners Implemented
    - Edit colors in the `:root` variables in `style.css`
    - Adjust layout in the respective CSS sections
 
-Future Enhancements
-
-- Add user authentication
-- Implement booking system
-- Include customer reviews section
-- Add photo gallery with lightbox
-
 
  Contact
 
